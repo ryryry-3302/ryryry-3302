@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about React and Verilog**
 
-- 📝 I'm also working on a project for the National Metrology Centre **A clock synchronisation module using Verilog**
+- 📝 I'm also working on a project for the National Metrology Centre on a **1PPS Clock Synchronisation module using Verilog on a Tang Nano 20K**
 
 - 👨‍💻 All of my projects are available at [https://ryryry-3302.github.io/My-Portfolio/](https://ryryry-3302.github.io/My-Portfolio/)
 
