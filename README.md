@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [QuickSheet a desktop app for students](https://github.com/zackjh/quicksheet/)
 
-- 🌱 I’m currently learning **about React and Verilog**
+- 🌱 I’m currently learning **about K8s and ORB SLAM3**
 
-- 📝 I'm also working on a project for the National Metrology Centre on a **1PPS Clock Synchronisation module using Verilog on a Tang Nano 20K**
+- 📝 I previously worked on a project for the National Metrology Centre on a **1PPS Clock Synchronisation module using Verilog on a Tang Nano 20K**
 
-- 👨‍💻 All of my projects are available at [https://ryryry-3302.github.io/My-Portfolio/](https://ryryry-3302.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolio-version2-five.vercel.app/](https://portfolio-version2-five.vercel.app/)
 
 - 📫 How to reach me **e1122193@u.nus.edu**
 
-- 📄 Know about my experiences [https://ryryry-3302.github.io/My-Portfolio/images/Resume%20newest.pdf](https://ryryry-3302.github.io/My-Portfolio/images/Resume%20newest.pdf)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ryanjasperkoleong/](https://www.linkedin.com/in/ryanjasperkoleong/)
 
 - ⚡ Fun fact **I love playing electric guitar and Dota2**
 
