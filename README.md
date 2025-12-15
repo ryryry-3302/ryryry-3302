@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [QuickSheet a desktop app for students](https://github.com/zackjh/quicksheet/)
 
-- 🌱 I’m currently learning **about K8s and ORB SLAM3**
+- 🌱 I’m currently learning **about Magnetic Tracking**
 
 - 📝 I previously worked on a project for the National Metrology Centre on a **1PPS Clock Synchronisation module using Verilog on a Tang Nano 20K**
 
