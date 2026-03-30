@@ -6,9 +6,7 @@
 - 🔭 I’m currently working on [QuickSheet a desktop app for students](https://github.com/zackjh/quicksheet/)
 
 - 🌱 I’m currently learning **about Magnetic Tracking**
-
-- 📝 I previously worked on a project for the National Metrology Centre on a **1PPS Clock Synchronisation module using Verilog on a Tang Nano 20K**
-
+- 📝 You can find my past projects [here](https://ryan-leong-portfolio.vercel.app/projects/) Im particularly proud of this project on magnetic based full body [tracking](https://ryan-leong-portfolio.vercel.app/projects/)
 - 👨‍💻 All of my projects are available at [https://portfolio-version2-five.vercel.app/](https://portfolio-version2-five.vercel.app/)
 
 - 📫 How to reach me **e1122193@u.nus.edu**
